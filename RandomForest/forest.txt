@@ -1,0 +1,5 @@
+1. Using the Random forest rather than the decision tree is because random forest is more robust and better on predicting. Random forest can avoid the main problem of a decision tree, overfitting, due to that it selects the data and the attribute randomly.
+
+2. Execution time: 0:00:01.780927 seconds
+
+3. accuracy: 73.40%
